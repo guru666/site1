@@ -1,0 +1,16 @@
+.form-control {
+	width: 350px;
+}
+.header {
+	background-color: #1877f2;
+}
+.header a {
+	color: white;
+}
+.vtorhead {
+	background-color: black;
+}
+.button {
+	padding: 1rem 3rem;
+	color: gray;
+}	

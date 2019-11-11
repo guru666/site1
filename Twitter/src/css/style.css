@@ -1,0 +1,61 @@
+
+.header {
+	padding-top: 10px;
+	height: 60px;
+}
+.header a {
+	color: #66757f;
+}
+
+.form-control {
+	font-size: 12px;
+	width: 170px;
+	padding-top: 0;
+	border-radius: 12px;
+	color: #78858e;
+}
+.fon {
+	background-color: #dcf8f9;
+	height: 500px;
+	padding-top: 150px;
+	position: relative;
+	
+}
+.fon>h1 {
+	text-transform: uppercase;
+	text-align: center;
+
+	padding: 15px;
+	color: white;
+	width: 400px;
+	border: 2px solid #6faab1;
+background: #6faab1;}
+.fon>h2 {
+	text-align: center;
+	color: #6faab1;
+	text-decoration: underline;
+}
+
+.whitepol {
+	height: 70px;
+	padding-top: 15px;
+}
+.whitepol a {
+	color: #657786;
+}
+.sobol {
+    position: absolute;
+    top: -150px;
+}
+   
+.btn {
+	color: #0084b4;
+	background: white;
+
+}
+.blok1 {
+	background: #e6ecf0;
+}
+.blok a {
+	color: black;
+}

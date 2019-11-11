@@ -1,0 +1,39 @@
+html {
+  font-size: 10px;
+}
+.form-group {
+  display: inline-block;
+}
+.header {
+  display: inline-block;
+  height: 13rem;
+  width: 100%;
+  background-color: #990033;
+}
+.header a {
+	color: white;
+}
+.header label {
+	color: white;
+}
+.btn {
+	background-color: #ebebeb;
+	color: black;
+}
+main {
+  padding: 1rem;
+}
+.section {
+	background-color: #1a2633;
+}
+.blog-title a {
+	color: #ffcc66;
+}
+.kusok, .miniblog a {
+	color: white;
+}
+.seicas p {
+	color: white;
+}
+.blog-text p
+{color: white;}
